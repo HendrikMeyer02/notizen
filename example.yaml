@@ -1,0 +1,28 @@
+
+team: 'Cats'
+
+credentials:
+  - credential_name: 'Database-Prod-Access-Key'
+    category: 'Production'
+    last_changed: '2025-10-15'
+    contact_persons:
+      - 'alice.mueller@cats.example.com'
+      - 'bob.schmidt@cats.example.com'
+    group: 'DBA Team'
+    period_days: 90
+    rotation_type: 'Automatically' 
+    effort: 'Low'
+    comment: 'Access key for the main customer production database.'
+    relevant_for_dod: true 
+
+  - credential_name: 'Service-Bus-Dev-API-Token'
+    category: 'Development'
+    last_changed: '2025-11-01'
+    contact_persons:
+      - 'charlie.braun@cats.example.com'
+    group: 'DevOps Enablement'
+    period_days: 180
+    rotation_type: 'Instructions'
+    effort: 'Medium'
+    comment: 'Token used for integrating external development services. Rotation instructions are linked in Confluence.'
+    relevant_for_dod: false
