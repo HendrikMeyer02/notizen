@@ -47,6 +47,7 @@ Develop the Sync API Endpoint that will be called by GitHub Actions (receives an
 Develop the Jira API Integration (functionality for automatically creating rotation tickets).
 
 ### Task 3.4: Webhook Endpoint
+Prerequisite, you need to be Jira global Admin or at least Jira project admin.
 Develop the Webhook Endpoint that receives Jira notifications and updates the `last_changed` and `next_due_date` in the backend.
 
 ### Task 3.5: Date Calculation Logic
