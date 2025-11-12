@@ -1,0 +1,2230 @@
+{
+    "value": [
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "Arral Energy US",
+            "customerABCClassification": "A",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "Arral Energy US",
+            "industrialSector": "22",
+            "primaryContactId": "11ed43a4-4bc7-6c0e-afdb-8196c7010a00",
+            "adminData": {
+                "createdOn": "2022-09-22T11:51:17.986Z",
+                "createdBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "updatedOn": "2022-10-11T09:23:48.110Z",
+                "updatedBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "createdByName": "Steven Gary",
+                "updatedByName": "Steven Gary"
+            },
+            "id": "11ed3a6c-de5a-22be-afdb-815198010a00",
+            "displayId": "1000000",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "US",
+                "region": {
+                    "country": "US",
+                    "region": "AK"
+                },
+                "postalCode": "72716",
+                "cityName": "Bentonville",
+                "streetName": "S.W. 8th St",
+                "houseId": "702",
+                "isPostOfficeBoxAddress": false,
+                "correspondenceLanguage": "en",
+                "formattedPostalAddressDescription": "702 S.W. 8th St / Bentonville AK 72716 / US",
+                "countryDescription": "United States of America",
+                "regionDescription": "Alaska",
+                "correspondenceLanguageDescription": "English"
+            },
+            "defaultCommunication": {
+                "eMail": "karpagavalli.kulanthaivelu@sap.com",
+                "web": "www.arralenergy.com",
+                "facsimileFormattedNumber": "+1 898-973-4983 ext 4980",
+                "phoneFormattedNumber": "+1 800-925-6278",
+                "phoneNormalisedNumber": "+18009256278"
+            },
+            "primaryContactDisplayId": "1000010",
+            "primaryContactformattedName": "Joseph Hamilton",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "US",
+                    "region": {
+                        "country": "US",
+                        "region": "AK"
+                    },
+                    "cityName": "Bentonville",
+                    "streetName": "S.W. 8th St",
+                    "houseId": "702",
+                    "postalCode": "72716",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "702 S.W. 8th St / Bentonville AK 72716 / US",
+                    "correspondenceLanguage": "en",
+                    "eMail": "karpagavalli.kulanthaivelu@sap.com",
+                    "web": "www.arralenergy.com",
+                    "facsimileFormattedNumber": "+1 898-973-4983 ext 4980",
+                    "phoneFormattedNumber": "+1 800-925-6278",
+                    "phoneNormalisedNumber": "+18009256278",
+                    "phone": {
+                        "country": "US",
+                        "areaId": "800",
+                        "subscriberId": "925-6278"
+                    },
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "11ed3d73-33e5-22de-afdb-815198010a00",
+                    "parentId": "11ed3a6c-de5a-22be-afdb-815198010a00",
+                    "addressId": "11ed3d73-33e6-344e-afdb-815198010a00",
+                    "countryDescription": "United States of America",
+                    "regionDescription": "Alaska",
+                    "correspondenceLanguageDescription": "English",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed43a4-4bc7-6c0e-afdb-8196c7010a00",
+                    "id": "11ed43a4-4c2d-f60e-afdb-8196c7010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000010",
+                    "contactFormattedName": "Joseph Hamilton"
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account A",
+            "industrialSectorDescription": "Utilities"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "Campon Chemicals US",
+            "customerABCClassification": "A",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "Campon Chemicals US",
+            "industrialSector": "31",
+            "primaryContactId": "11ed4936-a97a-a23e-afdb-8196c7010a00",
+            "adminData": {
+                "createdOn": "2022-10-11T07:20:47.927Z",
+                "createdBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "updatedOn": "2022-10-11T09:43:13.984Z",
+                "updatedBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "createdByName": "Steven Gary",
+                "updatedByName": "Steven Gary"
+            },
+            "id": "11ed4935-3a53-646e-afdb-8196c7010a00",
+            "displayId": "1000011",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "US",
+                "region": {
+                    "country": "US",
+                    "region": "CA"
+                },
+                "postalCode": "95134",
+                "cityName": "San Jose",
+                "streetName": "East Tasman Dr.",
+                "houseId": "300",
+                "isPostOfficeBoxAddress": false,
+                "isInternalGeoLocation": false,
+                "correspondenceLanguage": "en",
+                "formattedPostalAddressDescription": "300 East Tasman Dr. / San Jose CA 95134 / US",
+                "countryDescription": "United States of America",
+                "regionDescription": "California",
+                "correspondenceLanguageDescription": "English"
+            },
+            "defaultCommunication": {
+                "eMail": "campon@demo.sap.com",
+                "web": "www.campon.com",
+                "phoneFormattedNumber": "+1 408-526-5000",
+                "phoneNormalisedNumber": "+14085265000"
+            },
+            "primaryContactDisplayId": "1000001",
+            "primaryContactformattedName": "Zaiden Dorsey",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "US",
+                    "region": {
+                        "country": "US",
+                        "region": "CA"
+                    },
+                    "cityName": "San Jose",
+                    "streetName": "East Tasman Dr.",
+                    "houseId": "300",
+                    "postalCode": "95134",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "300 East Tasman Dr. / San Jose CA 95134 / US",
+                    "isInternalGeoLocation": false,
+                    "correspondenceLanguage": "en",
+                    "eMail": "campon@demo.sap.com",
+                    "web": "www.campon.com",
+                    "phoneFormattedNumber": "+1 408-526-5000",
+                    "phoneNormalisedNumber": "+14085265000",
+                    "phone": {
+                        "country": "US",
+                        "areaId": "408",
+                        "subscriberId": "526-5000"
+                    },
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "11ed4935-3a53-d99e-afdb-8196c7010a00",
+                    "parentId": "11ed4935-3a53-646e-afdb-8196c7010a00",
+                    "addressId": "11ed4935-3a54-75de-afdb-8196c7010a00",
+                    "countryDescription": "United States of America",
+                    "regionDescription": "California",
+                    "correspondenceLanguageDescription": "English",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed4936-a97a-a23e-afdb-8196c7010a00",
+                    "id": "11ed4939-cde2-372e-afdb-81e4bf010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000001",
+                    "contactFormattedName": "Zaiden Dorsey"
+                },
+                {
+                    "contactId": "11ed4936-a97a-a23e-afdb-8196c7010a00",
+                    "id": "11eeb39e-d8e7-62ae-afdb-81621f020a00",
+                    "isDefault": false,
+                    "contactDisplayId": "1000001",
+                    "contactFormattedName": "Zaiden Dorsey"
+                },
+                {
+                    "contactId": "11ed4936-a97a-a23e-afdb-8196c7010a00",
+                    "id": "11eeb39e-d8e7-89be-afdb-81621f020a00",
+                    "isDefault": false,
+                    "contactDisplayId": "1000001",
+                    "contactFormattedName": "Zaiden Dorsey"
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account A",
+            "industrialSectorDescription": "Manufacturing"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "Denken Varsity US",
+            "customerABCClassification": "A",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "Denken Varsity US",
+            "industrialSector": "42",
+            "primaryContactId": "11ed4942-b087-2cee-afdb-81e4bf010a00",
+            "adminData": {
+                "createdOn": "2022-10-11T07:36:35.697Z",
+                "createdBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "updatedOn": "2022-10-11T09:01:10.638Z",
+                "updatedBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "createdByName": "Steven Gary",
+                "updatedByName": "Steven Gary"
+            },
+            "id": "11ed4937-6f2d-716e-afdb-81e4bf010a00",
+            "displayId": "1000002",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "US",
+                "region": {
+                    "country": "US",
+                    "region": "OR"
+                },
+                "postalCode": "97005",
+                "cityName": "Beaverton",
+                "streetName": " Bowerman Drive",
+                "houseId": "1",
+                "isPostOfficeBoxAddress": false,
+                "isInternalGeoLocation": false,
+                "correspondenceLanguage": "en",
+                "formattedPostalAddressDescription": "1  Bowerman Drive / Beaverton OR 97005 / US",
+                "countryDescription": "United States of America",
+                "regionDescription": "Oregon",
+                "correspondenceLanguageDescription": "English"
+            },
+            "defaultCommunication": {
+                "eMail": "DenkenVarsity@demo.sap.com",
+                "web": "www.DenkenVarsity.com",
+                "phoneFormattedNumber": "+1 503-671-6400",
+                "phoneNormalisedNumber": "+15036716400"
+            },
+            "primaryContactDisplayId": "1000005",
+            "primaryContactformattedName": "Jens Kröcher",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "US",
+                    "region": {
+                        "country": "US",
+                        "region": "OR"
+                    },
+                    "cityName": "Beaverton",
+                    "streetName": " Bowerman Drive",
+                    "houseId": "1",
+                    "postalCode": "97005",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "1  Bowerman Drive / Beaverton OR 97005 / US",
+                    "isInternalGeoLocation": false,
+                    "correspondenceLanguage": "en",
+                    "eMail": "DenkenVarsity@demo.sap.com",
+                    "web": "www.DenkenVarsity.com",
+                    "phoneFormattedNumber": "+1 503-671-6400",
+                    "phoneNormalisedNumber": "+15036716400",
+                    "phone": {
+                        "country": "US",
+                        "areaId": "503",
+                        "subscriberId": "671-6400"
+                    },
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "11ed4937-6f32-7a7e-afdb-81e4bf010a00",
+                    "parentId": "11ed4937-6f2d-716e-afdb-81e4bf010a00",
+                    "addressId": "11ed4937-6f35-aece-afdb-81e4bf010a00",
+                    "countryDescription": "United States of America",
+                    "regionDescription": "Oregon",
+                    "correspondenceLanguageDescription": "English",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed4942-b087-2cee-afdb-81e4bf010a00",
+                    "id": "11ed4942-b09b-c65e-afdb-81e4bf010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000005",
+                    "contactFormattedName": "Jens Kröcher"
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account A",
+            "industrialSectorDescription": "Wholesale trade"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "Conviare Communications US",
+            "customerABCClassification": "C",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "Conviare Communications US",
+            "industrialSector": "9",
+            "primaryContactId": "11ed4942-09d8-1fde-afdb-81651a010a00",
+            "adminData": {
+                "createdOn": "2022-10-11T07:48:52.834Z",
+                "createdBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "updatedOn": "2022-10-12T10:21:18.431Z",
+                "updatedBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "createdByName": "Steven Gary",
+                "updatedByName": "Steven Gary"
+            },
+            "id": "11ed4939-2694-c73e-afdb-81651a010a00",
+            "displayId": "1000020",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "US",
+                "postalCode": "10036",
+                "cityName": "New York",
+                "streetName": "Avenue of the Americas",
+                "houseId": "1095",
+                "isPostOfficeBoxAddress": false,
+                "formattedPostalAddressDescription": "1095 Avenue of the Americas / New York 10036 / US",
+                "countryDescription": "United States of America"
+            },
+            "defaultCommunication": {
+                "eMail": "ConviareCommunicationsus@ondemand.com",
+                "web": "www.ConviareCommunications.com"
+            },
+            "primaryContactDisplayId": "1000004",
+            "primaryContactformattedName": "Tilo Linkberger",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "US",
+                    "cityName": "New York",
+                    "streetName": "Avenue of the Americas",
+                    "houseId": "1095",
+                    "postalCode": "10036",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "1095 Avenue of the Americas / New York 10036 / US",
+                    "eMail": "ConviareCommunicationsus@ondemand.com",
+                    "web": "www.ConviareCommunications.com",
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "11ed4939-2695-d8ae-afdb-81651a010a00",
+                    "parentId": "11ed4939-2694-c73e-afdb-81651a010a00",
+                    "addressId": "11ed4939-2698-49ae-afdb-81651a010a00",
+                    "countryDescription": "United States of America",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed4942-09d8-1fde-afdb-81651a010a00",
+                    "id": "11ed4942-0a09-901e-afdb-81651a010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000004",
+                    "contactFormattedName": "Tilo Linkberger"
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account C",
+            "industrialSectorDescription": "Telecommunication"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "Swifan Auto US",
+            "customerABCClassification": "A",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "Swifan Auto US",
+            "industrialSector": "48",
+            "primaryContactId": "11ed493e-d4e7-4bfe-afdb-81e4bf010a00",
+            "adminData": {
+                "createdOn": "2022-10-11T07:57:47.698Z",
+                "createdBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "updatedOn": "2022-10-11T09:16:02.108Z",
+                "updatedBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "createdByName": "Steven Gary",
+                "updatedByName": "Steven Gary"
+            },
+            "id": "11ed493a-6566-83de-afdb-81e4bf010a00",
+            "displayId": "1000021",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "US",
+                "region": {
+                    "country": "US",
+                    "region": "TX"
+                },
+                "postalCode": "75039",
+                "cityName": "Irving",
+                "streetName": "Las Colinas Boulevard",
+                "houseId": "5959",
+                "isPostOfficeBoxAddress": false,
+                "isInternalGeoLocation": false,
+                "correspondenceLanguage": "en",
+                "formattedPostalAddressDescription": "5959 Las Colinas Boulevard / Irving TX 75039 / US",
+                "countryDescription": "United States of America",
+                "regionDescription": "Texas",
+                "correspondenceLanguageDescription": "English"
+            },
+            "defaultCommunication": {
+                "eMail": "swifan.auto@demo.sap.com",
+                "web": "Swifan.Auto.com",
+                "phoneFormattedNumber": "+1 972-940-6500",
+                "phoneNormalisedNumber": "+19729406500"
+            },
+            "primaryContactDisplayId": "1000003",
+            "primaryContactformattedName": "Oscar Moore",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "US",
+                    "region": {
+                        "country": "US",
+                        "region": "TX"
+                    },
+                    "cityName": "Irving",
+                    "streetName": "Las Colinas Boulevard",
+                    "houseId": "5959",
+                    "postalCode": "75039",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "5959 Las Colinas Boulevard / Irving TX 75039 / US",
+                    "isInternalGeoLocation": false,
+                    "correspondenceLanguage": "en",
+                    "eMail": "swifan.auto@demo.sap.com",
+                    "web": "Swifan.Auto.com",
+                    "phoneFormattedNumber": "+1 972-940-6500",
+                    "phoneNormalisedNumber": "+19729406500",
+                    "phone": {
+                        "country": "US",
+                        "areaId": "972",
+                        "subscriberId": "940-6500"
+                    },
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "11ed493a-6567-472e-afdb-81e4bf010a00",
+                    "parentId": "11ed493a-6566-83de-afdb-81e4bf010a00",
+                    "addressId": "11ed493a-6568-0a7e-afdb-81e4bf010a00",
+                    "countryDescription": "United States of America",
+                    "regionDescription": "Texas",
+                    "correspondenceLanguageDescription": "English",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed493e-d4e7-4bfe-afdb-81e4bf010a00",
+                    "id": "11ed493e-d4f6-672e-afdb-81e4bf010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000003",
+                    "contactFormattedName": "Oscar Moore"
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account A",
+            "industrialSectorDescription": "Transportation and warehousing"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "Rise and Tall Constructions US",
+            "customerABCClassification": "C",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "Rise and Tall Constructions US",
+            "industrialSector": "23",
+            "primaryContactId": "11ed4941-8813-4c9e-afdb-81e4bf010a00",
+            "adminData": {
+                "createdOn": "2022-10-11T07:57:58.687Z",
+                "createdBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "updatedOn": "2022-10-11T09:08:11.999Z",
+                "updatedBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "createdByName": "Steven Gary",
+                "updatedByName": "Steven Gary"
+            },
+            "id": "11ed493a-6bf3-c2de-afdb-81651a010a00",
+            "displayId": "1000012",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "US",
+                "region": {
+                    "country": "US",
+                    "region": "GA"
+                },
+                "postalCode": "30339",
+                "cityName": "Atlanta",
+                "streetName": "Paces Ferry Road Southeast",
+                "houseId": "2455",
+                "isPostOfficeBoxAddress": false,
+                "isInternalGeoLocation": false,
+                "formattedPostalAddressDescription": "2455 Paces Ferry Road Southeast / Atlanta GA 30339 / US",
+                "countryDescription": "United States of America",
+                "regionDescription": "Georgia"
+            },
+            "defaultCommunication": {
+                "eMail": "riseandtallconstructions@ondemand.com",
+                "web": "www.riseandtallconstructions.com",
+                "facsimileFormattedNumber": "+1 982-382-8136 ext 560",
+                "phoneFormattedNumber": "+1 800-654-0658",
+                "phoneNormalisedNumber": "+18006540658"
+            },
+            "primaryContactDisplayId": "1000014",
+            "primaryContactformattedName": "Anika Hausch",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "US",
+                    "region": {
+                        "country": "US",
+                        "region": "GA"
+                    },
+                    "cityName": "Atlanta",
+                    "streetName": "Paces Ferry Road Southeast",
+                    "houseId": "2455",
+                    "postalCode": "30339",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "2455 Paces Ferry Road Southeast / Atlanta GA 30339 / US",
+                    "isInternalGeoLocation": false,
+                    "eMail": "riseandtallconstructions@ondemand.com",
+                    "web": "www.riseandtallconstructions.com",
+                    "facsimileFormattedNumber": "+1 982-382-8136 ext 560",
+                    "phoneFormattedNumber": "+1 800-654-0658",
+                    "phoneNormalisedNumber": "+18006540658",
+                    "phone": {
+                        "country": "US",
+                        "areaId": "800",
+                        "subscriberId": "654-0658"
+                    },
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "11ed493a-6bf4-862e-afdb-81651a010a00",
+                    "parentId": "11ed493a-6bf3-c2de-afdb-81651a010a00",
+                    "addressId": "11ed493a-6bf5-226e-afdb-81651a010a00",
+                    "countryDescription": "United States of America",
+                    "regionDescription": "Georgia",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed4941-8813-4c9e-afdb-81e4bf010a00",
+                    "id": "11ed4941-8823-c75e-afdb-81e4bf010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000014",
+                    "contactFormattedName": "Anika Hausch"
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account C",
+            "industrialSectorDescription": "Construction"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "Captura Finance US",
+            "customerABCClassification": "B",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "Captura Finance US",
+            "industrialSector": "52",
+            "primaryContactId": "11ed493f-6de3-e0ce-afdb-81e4bf010a00",
+            "adminData": {
+                "createdOn": "2022-10-11T08:25:53.928Z",
+                "createdBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "updatedOn": "2022-10-11T09:10:21.802Z",
+                "updatedBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "createdByName": "Steven Gary",
+                "updatedByName": "Steven Gary"
+            },
+            "id": "11ed493e-527a-9ffe-afdb-81e4bf010a00",
+            "displayId": "1000013",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "US",
+                "region": {
+                    "country": "US",
+                    "region": "NY"
+                },
+                "postalCode": "10281",
+                "cityName": "New York",
+                "streetName": "Vesey Street",
+                "houseId": "200",
+                "isPostOfficeBoxAddress": false,
+                "correspondenceLanguage": "en",
+                "formattedPostalAddressDescription": "200 Vesey Street / New York NY 10281 / US",
+                "countryDescription": "United States of America",
+                "regionDescription": "New York",
+                "correspondenceLanguageDescription": "English"
+            },
+            "defaultCommunication": {
+                "eMail": "capturafinance@demo.sap.com",
+                "web": "www.capturafinance.com",
+                "phoneFormattedNumber": "+1 800-528-4801",
+                "phoneNormalisedNumber": "+18005284801"
+            },
+            "primaryContactDisplayId": "1000022",
+            "primaryContactformattedName": "Jeannine Hausova",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "US",
+                    "region": {
+                        "country": "US",
+                        "region": "NY"
+                    },
+                    "cityName": "New York",
+                    "streetName": "Vesey Street",
+                    "houseId": "200",
+                    "postalCode": "10281",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "200 Vesey Street / New York NY 10281 / US",
+                    "correspondenceLanguage": "en",
+                    "eMail": "capturafinance@demo.sap.com",
+                    "web": "www.capturafinance.com",
+                    "phoneFormattedNumber": "+1 800-528-4801",
+                    "phoneNormalisedNumber": "+18005284801",
+                    "phone": {
+                        "country": "US",
+                        "areaId": "800",
+                        "subscriberId": "528-4801"
+                    },
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "11ed493e-527b-3c3e-afdb-81e4bf010a00",
+                    "parentId": "11ed493e-527a-9ffe-afdb-81e4bf010a00",
+                    "addressId": "11ed493e-527b-ff8e-afdb-81e4bf010a00",
+                    "countryDescription": "United States of America",
+                    "regionDescription": "New York",
+                    "correspondenceLanguageDescription": "English",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed493f-6de3-e0ce-afdb-81e4bf010a00",
+                    "id": "11ed493f-6df0-d91e-afdb-81e4bf010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000022",
+                    "contactFormattedName": "Jeannine Hausova"
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account B",
+            "industrialSectorDescription": "Finance and insurance"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "Arral Energy DE",
+            "customerABCClassification": "A",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "Arral Energy DE",
+            "industrialSector": "22",
+            "primaryContactId": "11ed49ea-471d-eb6e-afdb-81651a010a00",
+            "adminData": {
+                "createdOn": "2022-10-12T04:50:19.497Z",
+                "createdBy": "87079cf1-38e6-11ed-a715-ff788fe76ee8",
+                "updatedOn": "2022-10-12T06:27:08.451Z",
+                "updatedBy": "87079cf1-38e6-11ed-a715-ff788fe76ee8",
+                "createdByName": "Eddie Smoke",
+                "updatedByName": "Eddie Smoke"
+            },
+            "id": "11ed49e9-5f5e-11be-afdb-81651a010a00",
+            "displayId": "1000006",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "DE",
+                "postalCode": "80333",
+                "cityName": "München",
+                "houseId": "2",
+                "streetPrefixName": "Wittelsbacherplatz",
+                "isPostOfficeBoxAddress": false,
+                "correspondenceLanguage": "en",
+                "formattedPostalAddressDescription": "Wittelsbacherplatz / 80333 München / DE",
+                "countryDescription": "Germany",
+                "correspondenceLanguageDescription": "English"
+            },
+            "defaultCommunication": {
+                "web": "www.arralenergy.de",
+                "phoneFormattedNumber": "+49 6365896974",
+                "phoneNormalisedNumber": "+496365896974"
+            },
+            "primaryContactDisplayId": "1000023",
+            "primaryContactformattedName": "Marvin Brander",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "DE",
+                    "cityName": "München",
+                    "houseId": "2",
+                    "postalCode": "80333",
+                    "streetPrefixName": "Wittelsbacherplatz",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "Wittelsbacherplatz / 80333 München / DE",
+                    "correspondenceLanguage": "en",
+                    "web": "www.arralenergy.de",
+                    "phoneFormattedNumber": "+49 6365896974",
+                    "phoneNormalisedNumber": "+496365896974",
+                    "phone": {
+                        "country": "DE",
+                        "subscriberId": "06365896974"
+                    },
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "11ed49e9-5f5e-86ee-afdb-81651a010a00",
+                    "parentId": "11ed49e9-5f5e-11be-afdb-81651a010a00",
+                    "addressId": "11ed49e9-5f5f-bf6e-afdb-81651a010a00",
+                    "countryDescription": "Germany",
+                    "correspondenceLanguageDescription": "English",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed49ea-471d-eb6e-afdb-81651a010a00",
+                    "id": "11ed49ea-472c-b87e-afdb-81651a010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000023",
+                    "contactFormattedName": "Marvin Brander"
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account A",
+            "industrialSectorDescription": "Utilities"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "Rise and Tall Construction DE",
+            "customerABCClassification": "C",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "Rise and Tall Construction DE",
+            "industrialSector": "23",
+            "primaryContactId": "11ed49eb-ba3d-8c8e-afdb-81651a010a00",
+            "adminData": {
+                "createdOn": "2022-10-12T05:05:34.986Z",
+                "createdBy": "87079cf1-38e6-11ed-a715-ff788fe76ee8",
+                "updatedOn": "2022-10-12T05:05:43.668Z",
+                "updatedBy": "87079cf1-38e6-11ed-a715-ff788fe76ee8",
+                "createdByName": "Eddie Smoke",
+                "updatedByName": "Eddie Smoke"
+            },
+            "id": "11ed49eb-810c-969e-afdb-81e4bf010a00",
+            "displayId": "1000007",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "DE",
+                "postalCode": "70327",
+                "cityName": "Stuttgart",
+                "houseId": "137",
+                "streetPrefixName": "Mercedesstraße",
+                "isPostOfficeBoxAddress": false,
+                "correspondenceLanguage": "en",
+                "formattedPostalAddressDescription": "Mercedesstraße / 70327 Stuttgart / DE",
+                "countryDescription": "Germany",
+                "correspondenceLanguageDescription": "English"
+            },
+            "defaultCommunication": {
+                "web": "www.RiseandTallConstruction.de",
+                "phoneFormattedNumber": "+49 7569854315",
+                "phoneNormalisedNumber": "+497569854315"
+            },
+            "primaryContactDisplayId": "1000015",
+            "primaryContactformattedName": "Frank Klingler",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "DE",
+                    "cityName": "Stuttgart",
+                    "houseId": "137",
+                    "postalCode": "70327",
+                    "streetPrefixName": "Mercedesstraße",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "Mercedesstraße / 70327 Stuttgart / DE",
+                    "correspondenceLanguage": "en",
+                    "web": "www.RiseandTallConstruction.de",
+                    "phoneFormattedNumber": "+49 7569854315",
+                    "phoneNormalisedNumber": "+497569854315",
+                    "phone": {
+                        "country": "DE",
+                        "subscriberId": "07569854315"
+                    },
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "11ed49eb-810d-0bce-afdb-81e4bf010a00",
+                    "parentId": "11ed49eb-810c-969e-afdb-81e4bf010a00",
+                    "addressId": "11ed49eb-810d-80fe-afdb-81e4bf010a00",
+                    "countryDescription": "Germany",
+                    "correspondenceLanguageDescription": "English",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed49eb-ba3d-8c8e-afdb-81651a010a00",
+                    "id": "11ed49eb-ba4b-964e-afdb-81651a010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000015",
+                    "contactFormattedName": "Frank Klingler"
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account C",
+            "industrialSectorDescription": "Construction"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "Denken Varsity DE",
+            "customerABCClassification": "C",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "Denken Varsity DE",
+            "industrialSector": "42",
+            "primaryContactId": "11ed49ec-fb5c-948e-afdb-81e4bf010a00",
+            "adminData": {
+                "createdOn": "2022-10-12T05:14:48.685Z",
+                "createdBy": "87079cf1-38e6-11ed-a715-ff788fe76ee8",
+                "updatedOn": "2022-10-12T06:26:52.938Z",
+                "updatedBy": "87079cf1-38e6-11ed-a715-ff788fe76ee8",
+                "createdByName": "Eddie Smoke",
+                "updatedByName": "Eddie Smoke"
+            },
+            "id": "11ed49ec-cb11-9aae-afdb-81651a010a00",
+            "displayId": "1000008",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "DE",
+                "postalCode": "91074",
+                "cityName": "Herzogenaurach",
+                "houseId": "1",
+                "streetPrefixName": "Adi-Dassler-Straße",
+                "isPostOfficeBoxAddress": false,
+                "correspondenceLanguage": "en",
+                "formattedPostalAddressDescription": "Adi-Dassler-Straße / 91074 Herzogenaurach / DE",
+                "countryDescription": "Germany",
+                "correspondenceLanguageDescription": "English"
+            },
+            "defaultCommunication": {
+                "web": "www.DenkenVarsity.de",
+                "phoneFormattedNumber": "+49 9123782111",
+                "phoneNormalisedNumber": "+499123782111"
+            },
+            "primaryContactDisplayId": "1000024",
+            "primaryContactformattedName": "Timmy Lothean",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "DE",
+                    "cityName": "Herzogenaurach",
+                    "houseId": "1",
+                    "postalCode": "91074",
+                    "streetPrefixName": "Adi-Dassler-Straße",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "Adi-Dassler-Straße / 91074 Herzogenaurach / DE",
+                    "correspondenceLanguage": "en",
+                    "web": "www.DenkenVarsity.de",
+                    "phoneFormattedNumber": "+49 9123782111",
+                    "phoneNormalisedNumber": "+499123782111",
+                    "phone": {
+                        "country": "DE",
+                        "subscriberId": "09123782111"
+                    },
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "11ed49ec-cb12-d32e-afdb-81651a010a00",
+                    "parentId": "11ed49ec-cb11-9aae-afdb-81651a010a00",
+                    "addressId": "11ed49ec-cb13-e49e-afdb-81651a010a00",
+                    "countryDescription": "Germany",
+                    "correspondenceLanguageDescription": "English",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed49ec-fb5c-948e-afdb-81e4bf010a00",
+                    "id": "11ed49ec-fb6a-ec6e-afdb-81e4bf010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000024",
+                    "contactFormattedName": "Timmy Lothean"
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account C",
+            "industrialSectorDescription": "Wholesale trade"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "Conviare Communications DE",
+            "customerABCClassification": "B",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "Conviare Communications DE",
+            "industrialSector": "9",
+            "primaryContactId": "11ed49ed-f1a6-5abe-afdb-81651a010a00",
+            "adminData": {
+                "createdOn": "2022-10-12T05:21:47.337Z",
+                "createdBy": "87079cf1-38e6-11ed-a715-ff788fe76ee8",
+                "updatedOn": "2022-10-12T05:22:04.535Z",
+                "updatedBy": "87079cf1-38e6-11ed-a715-ff788fe76ee8",
+                "createdByName": "Eddie Smoke",
+                "updatedByName": "Eddie Smoke"
+            },
+            "id": "11ed49ed-c49c-d03e-afdb-81651a010a00",
+            "displayId": "1000025",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "DE",
+                "postalCode": "80809",
+                "cityName": "München",
+                "houseId": "130",
+                "streetPrefixName": "Petuelring",
+                "isPostOfficeBoxAddress": false,
+                "correspondenceLanguage": "en",
+                "formattedPostalAddressDescription": "Petuelring / 80809 München / DE",
+                "countryDescription": "Germany",
+                "correspondenceLanguageDescription": "English"
+            },
+            "defaultCommunication": {
+                "web": "www.ConviareCommunications.de",
+                "phoneFormattedNumber": "+49 8729363141",
+                "phoneNormalisedNumber": "+498729363141"
+            },
+            "primaryContactDisplayId": "1000016",
+            "primaryContactformattedName": "Mike Gruner",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "DE",
+                    "cityName": "München",
+                    "houseId": "130",
+                    "postalCode": "80809",
+                    "streetPrefixName": "Petuelring",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "Petuelring / 80809 München / DE",
+                    "correspondenceLanguage": "en",
+                    "web": "www.ConviareCommunications.de",
+                    "phoneFormattedNumber": "+49 8729363141",
+                    "phoneNormalisedNumber": "+498729363141",
+                    "phone": {
+                        "country": "DE",
+                        "subscriberId": "08729363141"
+                    },
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "11ed49ed-c49d-6c7e-afdb-81651a010a00",
+                    "parentId": "11ed49ed-c49c-d03e-afdb-81651a010a00",
+                    "addressId": "11ed49ed-c49e-2fce-afdb-81651a010a00",
+                    "countryDescription": "Germany",
+                    "correspondenceLanguageDescription": "English",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed49ed-f1a6-5abe-afdb-81651a010a00",
+                    "id": "11ed49ed-f1be-287e-afdb-81651a010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000016",
+                    "contactFormattedName": "Mike Gruner"
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account B",
+            "industrialSectorDescription": "Telecommunication"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "Alpha Center",
+            "customerABCClassification": "A",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "Alpha Center",
+            "industrialSector": "8",
+            "primaryContactId": "11ed49ee-c8e5-cf1e-afdb-81e4bf010a00",
+            "adminData": {
+                "createdOn": "2022-10-12T05:27:33.437Z",
+                "createdBy": "87079cf1-38e6-11ed-a715-ff788fe76ee8",
+                "updatedOn": "2022-10-19T13:36:32.907Z",
+                "updatedBy": "a4228eb1-4951-11ed-a986-2fcf4af80d58",
+                "createdByName": "Eddie Smoke",
+                "updatedByName": "Robert Mark"
+            },
+            "id": "11ed49ee-92e7-7b7e-afdb-81651a010a00",
+            "displayId": "1000009",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "US",
+                "postalCode": "55427",
+                "cityName": "Minneapolis MN",
+                "streetName": "Mendelssohn Ave N",
+                "houseId": "1504",
+                "isPostOfficeBoxAddress": false,
+                "correspondenceLanguage": "en",
+                "formattedPostalAddressDescription": "1504 Mendelssohn Ave N / Minneapolis MN 55427 / US",
+                "countryDescription": "United States of America",
+                "correspondenceLanguageDescription": "English"
+            },
+            "defaultCommunication": {
+                "phoneFormattedNumber": "+1 847-778-8972",
+                "phoneNormalisedNumber": "+18477788972"
+            },
+            "primaryContactDisplayId": "1000017",
+            "primaryContactformattedName": "Lou Daly",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "US",
+                    "cityName": "Minneapolis MN",
+                    "streetName": "Mendelssohn Ave N",
+                    "houseId": "1504",
+                    "postalCode": "55427",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "1504 Mendelssohn Ave N / Minneapolis MN 55427 / US",
+                    "correspondenceLanguage": "en",
+                    "phoneFormattedNumber": "+1 847-778-8972",
+                    "phoneNormalisedNumber": "+18477788972",
+                    "phone": {
+                        "country": "US",
+                        "areaId": "847",
+                        "subscriberId": "778-8972"
+                    },
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "11ed49ee-92e8-17be-afdb-81651a010a00",
+                    "parentId": "11ed49ee-92e7-7b7e-afdb-81651a010a00",
+                    "addressId": "11ed49ee-92e8-b3fe-afdb-81651a010a00",
+                    "countryDescription": "United States of America",
+                    "correspondenceLanguageDescription": "English",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "salesArrangements": [
+                {
+                    "blockingReasons": {
+                        "isSalesSupportBlocked": false
+                    },
+                    "id": "11ed4fb3-003a-412e-afdb-81249e010a00",
+                    "salesOrganizationId": "11ed4a23-bf71-0d7e-afdb-81651a010a00",
+                    "distributionChannel": "01",
+                    "division": "1",
+                    "isMarkedForDeletion": false,
+                    "isCompleteDeliveryRequested": false,
+                    "salesOrganizationDisplayId": "2100",
+                    "salesOrganizationName": "Market Unit",
+                    "distributionChannelDescription": "Direct Sales",
+                    "divisionDescription": "Product Division"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed49ee-c8e5-cf1e-afdb-81e4bf010a00",
+                    "id": "11ed49ee-c8f7-a96e-afdb-81e4bf010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000017",
+                    "contactFormattedName": "Lou Daly"
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account A",
+            "industrialSectorDescription": "High Tech"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "Captura Finance DE",
+            "customerABCClassification": "C",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "Captura Finance DE",
+            "industrialSector": "52",
+            "primaryContactId": "11ed49f5-c1ad-a5ee-afdb-81e4bf010a00",
+            "adminData": {
+                "createdOn": "2022-10-12T06:15:50.321Z",
+                "createdBy": "87079cf1-38e6-11ed-a715-ff788fe76ee8",
+                "updatedOn": "2022-10-12T06:16:21.526Z",
+                "updatedBy": "87079cf1-38e6-11ed-a715-ff788fe76ee8",
+                "createdByName": "Eddie Smoke",
+                "updatedByName": "Eddie Smoke"
+            },
+            "id": "11ed49f5-5194-718e-afdb-81e4bf010a00",
+            "displayId": "1000030",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "DE",
+                "postalCode": "61118",
+                "cityName": "Bad Vilbel",
+                "houseId": "18",
+                "streetPrefixName": "Stadastraße",
+                "isPostOfficeBoxAddress": false,
+                "correspondenceLanguage": "en",
+                "formattedPostalAddressDescription": "Stadastraße / 61118 Bad Vilbel / DE",
+                "countryDescription": "Germany",
+                "correspondenceLanguageDescription": "English"
+            },
+            "defaultCommunication": {
+                "web": "www.CapturaFinance.de",
+                "phoneFormattedNumber": "+49 6101782111",
+                "phoneNormalisedNumber": "+496101782111"
+            },
+            "primaryContactDisplayId": "1000026",
+            "primaryContactformattedName": "Carter Catlin",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "DE",
+                    "cityName": "Bad Vilbel",
+                    "houseId": "18",
+                    "postalCode": "61118",
+                    "streetPrefixName": "Stadastraße",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "Stadastraße / 61118 Bad Vilbel / DE",
+                    "correspondenceLanguage": "en",
+                    "web": "www.CapturaFinance.de",
+                    "phoneFormattedNumber": "+49 6101782111",
+                    "phoneNormalisedNumber": "+496101782111",
+                    "phone": {
+                        "country": "DE",
+                        "subscriberId": "06101782111"
+                    },
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "11ed49f5-5195-0dce-afdb-81e4bf010a00",
+                    "parentId": "11ed49f5-5194-718e-afdb-81e4bf010a00",
+                    "addressId": "11ed49f5-5195-d11e-afdb-81e4bf010a00",
+                    "countryDescription": "Germany",
+                    "correspondenceLanguageDescription": "English",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed49f5-c1ad-a5ee-afdb-81e4bf010a00",
+                    "id": "11ed49f5-c1f5-ab6e-afdb-81e4bf010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000026",
+                    "contactFormattedName": "Carter Catlin"
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account C",
+            "industrialSectorDescription": "Finance and insurance"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "Campon Chemicals DE",
+            "customerABCClassification": "A",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "Campon Chemicals DE",
+            "industrialSector": "31",
+            "primaryContactId": "11ed49f7-385a-3e5e-afdb-81e4bf010a00",
+            "adminData": {
+                "createdOn": "2022-10-12T06:24:59.480Z",
+                "createdBy": "87079cf1-38e6-11ed-a715-ff788fe76ee8",
+                "updatedOn": "2022-10-12T06:26:08.751Z",
+                "updatedBy": "87079cf1-38e6-11ed-a715-ff788fe76ee8",
+                "createdByName": "Eddie Smoke",
+                "updatedByName": "Eddie Smoke"
+            },
+            "id": "11ed49f6-98e8-d48e-afdb-81e4bf010a00",
+            "displayId": "1000018",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "DE",
+                "postalCode": "67063",
+                "cityName": "Ludwigshafen",
+                "houseId": "38",
+                "streetPrefixName": "Carl-Bosch-Straße",
+                "isPostOfficeBoxAddress": false,
+                "correspondenceLanguage": "en",
+                "formattedPostalAddressDescription": "Carl-Bosch-Straße / 67063 Ludwigshafen / DE",
+                "countryDescription": "Germany",
+                "correspondenceLanguageDescription": "English"
+            },
+            "defaultCommunication": {
+                "web": "www.CamponChemicals.de",
+                "phoneFormattedNumber": "+49 621782111",
+                "phoneNormalisedNumber": "+49621782111"
+            },
+            "primaryContactDisplayId": "1000031",
+            "primaryContactformattedName": "Adrian Reicherz",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "DE",
+                    "cityName": "Ludwigshafen",
+                    "houseId": "38",
+                    "postalCode": "67063",
+                    "streetPrefixName": "Carl-Bosch-Straße",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "Carl-Bosch-Straße / 67063 Ludwigshafen / DE",
+                    "correspondenceLanguage": "en",
+                    "web": "www.CamponChemicals.de",
+                    "phoneFormattedNumber": "+49 621782111",
+                    "phoneNormalisedNumber": "+49621782111",
+                    "phone": {
+                        "country": "DE",
+                        "subscriberId": "0621782111"
+                    },
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "11ed49f6-98e9-49be-afdb-81e4bf010a00",
+                    "parentId": "11ed49f6-98e8-d48e-afdb-81e4bf010a00",
+                    "addressId": "11ed49f6-98e9-e5fe-afdb-81e4bf010a00",
+                    "countryDescription": "Germany",
+                    "correspondenceLanguageDescription": "English",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed49f7-385a-3e5e-afdb-81e4bf010a00",
+                    "id": "11ed49f7-3865-fe2e-afdb-81e4bf010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000031",
+                    "contactFormattedName": "Adrian Reicherz"
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account A",
+            "industrialSectorDescription": "Manufacturing"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "Swifan Auto DE",
+            "customerABCClassification": "A",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "Swifan Auto DE",
+            "industrialSector": "48",
+            "primaryContactId": "11ed49f7-f3bf-b94e-afdb-81651a010a00",
+            "adminData": {
+                "createdOn": "2022-10-12T06:33:07.795Z",
+                "createdBy": "87079cf1-38e6-11ed-a715-ff788fe76ee8",
+                "updatedOn": "2022-10-12T08:57:07.709Z",
+                "updatedBy": "87079cf1-38e6-11ed-a715-ff788fe76ee8",
+                "createdByName": "Eddie Smoke",
+                "updatedByName": "Eddie Smoke"
+            },
+            "id": "11ed49f7-bbf8-175e-afdb-81e4bf010a00",
+            "displayId": "1000027",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "DE",
+                "postalCode": "22083",
+                "cityName": "Hamburg",
+                "houseId": "118a",
+                "streetPrefixName": "Weidestraße",
+                "isPostOfficeBoxAddress": false,
+                "correspondenceLanguage": "en",
+                "formattedPostalAddressDescription": "Weidestraße / 22083 Hamburg / DE",
+                "countryDescription": "Germany",
+                "correspondenceLanguageDescription": "English"
+            },
+            "defaultCommunication": {
+                "web": "www.SwifanAuto.de",
+                "phoneFormattedNumber": "+49 4023782354",
+                "phoneNormalisedNumber": "+494023782354"
+            },
+            "primaryContactDisplayId": "1000032",
+            "primaryContactformattedName": "Marshall Stadding",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "DE",
+                    "cityName": "Hamburg",
+                    "houseId": "118a",
+                    "postalCode": "22083",
+                    "streetPrefixName": "Weidestraße",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "Weidestraße / 22083 Hamburg / DE",
+                    "correspondenceLanguage": "en",
+                    "web": "www.SwifanAuto.de",
+                    "phoneFormattedNumber": "+49 4023782354",
+                    "phoneNormalisedNumber": "+494023782354",
+                    "phone": {
+                        "country": "DE",
+                        "subscriberId": "04023782354"
+                    },
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "11ed49f7-bbf8-b39e-afdb-81e4bf010a00",
+                    "parentId": "11ed49f7-bbf8-175e-afdb-81e4bf010a00",
+                    "addressId": "11ed49f7-bbf9-28ce-afdb-81e4bf010a00",
+                    "countryDescription": "Germany",
+                    "correspondenceLanguageDescription": "English",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed49f7-f3bf-b94e-afdb-81651a010a00",
+                    "id": "11ed49f7-f3ed-ce2e-afdb-81651a010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000032",
+                    "contactFormattedName": "Marshall Stadding"
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account A",
+            "industrialSectorDescription": "Transportation and warehousing"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "Blanda Chemicals",
+            "customerABCClassification": "A",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "Blanda Chemicals",
+            "industrialSector": "31",
+            "ownerId": "11ed4a25-6058-31ee-afdb-81651a010a00",
+            "adminData": {
+                "createdOn": "2022-10-12T11:40:51.345Z",
+                "createdBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "updatedOn": "2022-10-27T05:03:16.933Z",
+                "updatedBy": "6d473b2f-4a2a-11ed-afc9-aba64cc1d8e6",
+                "createdByName": "Steven Gary",
+                "updatedByName": "Timmy Hardy"
+            },
+            "id": "11ed4a22-b919-79ee-afdb-81e4bf010a00",
+            "displayId": "1000029",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "US",
+                "region": {
+                    "country": "US",
+                    "region": "TX"
+                },
+                "postalCode": "77057",
+                "cityName": "Houston",
+                "streetName": "San Felipe",
+                "houseId": "4567",
+                "isPostOfficeBoxAddress": false,
+                "correspondenceLanguage": "en",
+                "formattedPostalAddressDescription": "4567 San Felipe / Houston TX 77057 / US",
+                "countryDescription": "United States of America",
+                "regionDescription": "Texas",
+                "correspondenceLanguageDescription": "English"
+            },
+            "defaultCommunication": {
+                "eMail": "info@blandachemicals.com",
+                "web": "https://blandachemicals.cx.demo.sap",
+                "phoneFormattedNumber": "+1 345-267-8945",
+                "phoneNormalisedNumber": "+13452678945"
+            },
+            "ownerFormattedName": "Robyn Gray",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "US",
+                    "region": {
+                        "country": "US",
+                        "region": "TX"
+                    },
+                    "cityName": "Houston",
+                    "streetName": "San Felipe",
+                    "houseId": "4567",
+                    "postalCode": "77057",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "4567 San Felipe / Houston TX 77057 / US",
+                    "correspondenceLanguage": "en",
+                    "eMail": "info@blandachemicals.com",
+                    "web": "https://blandachemicals.cx.demo.sap",
+                    "phoneFormattedNumber": "+1 345-267-8945",
+                    "phoneNormalisedNumber": "+13452678945",
+                    "phone": {
+                        "country": "KY",
+                        "areaId": "345",
+                        "subscriberId": "267-8945"
+                    },
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "11ed4a22-b91a-3d3e-afdb-81e4bf010a00",
+                    "parentId": "11ed4a22-b919-79ee-afdb-81e4bf010a00",
+                    "addressId": "11ed4a22-b91a-b26e-afdb-81e4bf010a00",
+                    "countryDescription": "United States of America",
+                    "regionDescription": "Texas",
+                    "correspondenceLanguageDescription": "English",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "salesArrangements": [
+                {
+                    "blockingReasons": {
+                        "isSalesSupportBlocked": false
+                    },
+                    "id": "11ed4a39-f701-22ae-afdb-81651a010a00",
+                    "salesOrganizationId": "11ed4a23-bf71-0d7e-afdb-81651a010a00",
+                    "distributionChannel": "01",
+                    "division": "1",
+                    "isMarkedForDeletion": false,
+                    "isCompleteDeliveryRequested": false,
+                    "salesOrganizationDisplayId": "2100",
+                    "salesOrganizationName": "Market Unit",
+                    "distributionChannelDescription": "Direct Sales",
+                    "divisionDescription": "Product Division"
+                }
+            ],
+            "accountTeamMembers": [
+                {
+                    "employeeId": "11ed4a25-6058-31ee-afdb-81651a010a00",
+                    "role": "BUR011-1",
+                    "isDefault": true,
+                    "id": "11ed55b4-ab61-807e-afdb-81ced7010a00",
+                    "validFrom": "0001-01-01",
+                    "validTo": "9999-12-31",
+                    "employeeDisplayId": "ROBYNG",
+                    "employeeFormattedName": "Robyn Gray",
+                    "roleDescription": "Has employee responsible - Sales"
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account A",
+            "industrialSectorDescription": "Manufacturing"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "Bike World",
+            "customerABCClassification": "A",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "Bike World",
+            "industrialSector": "31",
+            "primaryContactId": "11ed4bb9-d46a-212e-afdb-81d91b010a00",
+            "defaultExternalBusinessPartnerId": "USCU_S11",
+            "defaultExternalBusinessPartnerIdCommunicationSystemDisplayId": "0M1TAUD",
+            "defaultExternalCustomerId": "USCU_S11",
+            "defaultExternalCustomerIdCommunicationSystemDisplayId": "0M1TAUD",
+            "adminData": {
+                "createdOn": "2022-10-17T06:51:32.434Z",
+                "createdBy": "6a643df9-497c-11ed-87a3-a7c8eb11eeba",
+                "updatedOn": "2022-10-17T07:32:17.499Z",
+                "updatedBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "updatedByName": "Steven Gary"
+            },
+            "id": "11ed4de8-226d-45ce-afdb-81d91b010a00",
+            "displayId": "1000043",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "US",
+                "region": {
+                    "country": "US",
+                    "region": "GA"
+                },
+                "postalCode": "30303",
+                "cityName": "ATLANTA",
+                "districtName": "FULTON",
+                "isPostOfficeBoxAddress": false,
+                "correspondenceLanguage": "en",
+                "formattedPostalAddressDescription": "ATLANTA GA 30303 / US",
+                "countryDescription": "United States of America",
+                "regionDescription": "Georgia",
+                "correspondenceLanguageDescription": "English"
+            },
+            "defaultCommunication": {
+                "eMail": "j.adams@bikeworld.com",
+                "phoneFormattedNumber": "+1 916-239-6333",
+                "phoneNormalisedNumber": "+19162396333"
+            },
+            "primaryContactDisplayId": "1000041",
+            "primaryContactformattedName": "Bartley Crespo",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "US",
+                    "region": {
+                        "country": "US",
+                        "region": "GA"
+                    },
+                    "cityName": "ATLANTA",
+                    "postalCode": "30303",
+                    "districtName": "FULTON",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "ATLANTA GA 30303 / US",
+                    "correspondenceLanguage": "en",
+                    "eMail": "j.adams@bikeworld.com",
+                    "phoneFormattedNumber": "+1 916-239-6333",
+                    "phoneNormalisedNumber": "+19162396333",
+                    "phone": {
+                        "country": "US",
+                        "subscriberId": "916-239-6333"
+                    },
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "00163e19-8846-1ee6-a2c5-fd36a200eaed",
+                    "parentId": "11ed4de8-226d-45ce-afdb-81d91b010a00",
+                    "addressId": "11ed4de8-2270-a12e-afdb-81d91b010a00",
+                    "countryDescription": "United States of America",
+                    "regionDescription": "Georgia",
+                    "correspondenceLanguageDescription": "English",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "salesArrangements": [
+                {
+                    "incoterms": {
+                        "classification": "CFR",
+                        "transferLocationName": "Cost & Freight",
+                        "classificationDescription": "Cost and freight"
+                    },
+                    "blockingReasons": {
+                        "isSalesSupportBlocked": false
+                    },
+                    "id": "11ed4de8-2272-75ee-afdb-81d91b010a00",
+                    "salesOrganizationId": "11ed4977-f585-1f2e-afdb-81651a010a00",
+                    "distributionChannel": "01",
+                    "division": "1",
+                    "isMarkedForDeletion": false,
+                    "deliveryPriority": "3",
+                    "isCompleteDeliveryRequested": false,
+                    "currency": "USD",
+                    "customerGroup": "01",
+                    "priceSpecificationCustomerGroup": "C1",
+                    "salesOrganizationDisplayId": "3100",
+                    "salesOrganizationName": "BRM Market Unit",
+                    "distributionChannelDescription": "Direct Sales",
+                    "divisionDescription": "Product Division",
+                    "currencyDescription": "US Dollar",
+                    "deliveryPriorityDescription": "Normal",
+                    "customerGroupDescription": "Industrial customer",
+                    "priceSpecificationCustomerGroupDescription": "Regular Buyer"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed4bb9-d46a-212e-afdb-81d91b010a00",
+                    "id": "11ed4de8-3681-a74e-afdb-81d91b010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000041",
+                    "contactFormattedName": "Bartley Crespo"
+                },
+                {
+                    "contactId": "11ed4bb9-d463-917e-afdb-81d91b010a00",
+                    "id": "11ed4de8-3690-c27e-afdb-81d91b010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000051",
+                    "contactFormattedName": "Jarrett Adams"
+                }
+            ],
+            "externalIds": [
+                {
+                    "externalId": "USCU_S11",
+                    "communicationSystemId": "4dd8fd8f-712e-4924-a518-7c5e1857486c",
+                    "communicationSystemDisplayId": "0M1TAUD",
+                    "type": "sap.oitc.888",
+                    "id": "11ed4de8-2272-9cfe-afdb-81d91b010a00",
+                    "isDefault": true
+                },
+                {
+                    "externalId": "00163e19-8846-1ee6-a2c5-fd36a2008aed",
+                    "communicationSystemId": "4dd8fd8f-712e-4924-a518-7c5e1857486c",
+                    "communicationSystemDisplayId": "0M1TAUD",
+                    "type": "sap.oitc.889",
+                    "id": "11ed4de8-2272-c40e-afdb-81d91b010a00",
+                    "isDefault": false
+                },
+                {
+                    "externalId": "USCU_S11",
+                    "communicationSystemId": "4dd8fd8f-712e-4924-a518-7c5e1857486c",
+                    "communicationSystemDisplayId": "0M1TAUD",
+                    "type": "sap.oitc.918",
+                    "id": "11ed4de8-2272-eb1e-afdb-81d91b010a00",
+                    "isDefault": true
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account A",
+            "industrialSectorDescription": "Manufacturing"
+        },
+        {
+            "lifeCycleStatus": "OBSOLETE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "DelBont Industries",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "DelBont Industries",
+            "fourthLineName": "",
+            "adminData": {
+                "createdOn": "2022-10-19T05:30:17.590Z",
+                "createdBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "updatedOn": "2022-10-19T06:19:51.644Z",
+                "updatedBy": "955bb485-f152-11ec-b49e-7d10a4844ab2",
+                "createdByName": "Steven Gary",
+                "updatedByName": "Steven Gary"
+            },
+            "id": "11ed4f6f-1d52-02ae-afdb-8185d1010a00",
+            "displayId": "1000233",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "US",
+                "region": {
+                    "country": "US",
+                    "region": "TX"
+                },
+                "postalCode": "77057",
+                "cityName": "Houston",
+                "streetName": "San Felipe",
+                "houseId": " 4567",
+                "districtName": "",
+                "streetPrefixName": "Suite House No:-2600",
+                "isPostOfficeBoxAddress": false,
+                "correspondenceLanguage": "en",
+                "formattedPostalAddressDescription": "Suite House No:-2600 /  4567 San Felipe / Houston TX 77057 / US",
+                "countryDescription": "United States of America",
+                "regionDescription": "Texas",
+                "correspondenceLanguageDescription": "English"
+            },
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "US",
+                    "region": {
+                        "country": "US",
+                        "region": "TX"
+                    },
+                    "cityName": "Houston",
+                    "streetName": "San Felipe",
+                    "houseId": " 4567",
+                    "postalCode": "77057",
+                    "districtName": "",
+                    "streetPrefixName": "Suite House No:-2600",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "Suite House No:-2600 /  4567 San Felipe / Houston TX 77057 / US",
+                    "correspondenceLanguage": "en",
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "11ed4f6f-1d52-c5fe-afdb-8185d1010a00",
+                    "parentId": "11ed4f6f-1d52-02ae-afdb-8185d1010a00",
+                    "addressId": "11ed4f6f-1d53-894e-afdb-8185d1010a00",
+                    "countryDescription": "United States of America",
+                    "regionDescription": "Texas",
+                    "correspondenceLanguageDescription": "English",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "lifeCycleStatusDescription": "Obsolete",
+            "customerRoleDescription": "Customer"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "DelBont Industries",
+            "customerABCClassification": "A",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "DelBont Industries",
+            "fourthLineName": "Pumps division Demo Customer",
+            "industrialSector": "31",
+            "ownerId": "11ed4a30-9496-36ee-afdb-81651a010a00",
+            "primaryContactId": "11ed4f99-757a-babe-afdb-81e5bc010a00",
+            "defaultExternalBusinessPartnerId": "USCU-CUS89",
+            "defaultExternalBusinessPartnerIdCommunicationSystemDisplayId": "0M1TAUD",
+            "defaultExternalCustomerId": "USCU-CUS89",
+            "defaultExternalCustomerIdCommunicationSystemDisplayId": "0M1TAUD",
+            "adminData": {
+                "createdOn": "2022-10-19T10:33:24.440Z",
+                "createdBy": "6a643df9-497c-11ed-87a3-a7c8eb11eeba",
+                "updatedOn": "2022-10-19T13:35:41.642Z",
+                "updatedBy": "a4228eb1-4951-11ed-a986-2fcf4af80d58",
+                "updatedByName": "Robert Mark"
+            },
+            "id": "11ed4f99-758a-722e-afdb-81e5bc010a00",
+            "displayId": "1000240",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "US",
+                "region": {
+                    "country": "US",
+                    "region": "TX"
+                },
+                "postalCode": "77057",
+                "cityName": "Houston",
+                "streetName": "San Felipe",
+                "houseId": " 4567",
+                "districtName": "Harris",
+                "streetPrefixName": "Suite House No:-2600",
+                "isPostOfficeBoxAddress": false,
+                "correspondenceLanguage": "en",
+                "formattedPostalAddressDescription": "Suite House No:-2600 /  4567 San Felipe / Houston TX 77057 / US",
+                "countryDescription": "United States of America",
+                "regionDescription": "Texas",
+                "correspondenceLanguageDescription": "English"
+            },
+            "defaultCommunication": {
+                "web": "https://cbont.cx.demo.sap"
+            },
+            "ownerFormattedName": "Mike Summers",
+            "primaryContactDisplayId": "1000223",
+            "primaryContactformattedName": "Joe Wills",
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "US",
+                    "region": {
+                        "country": "US",
+                        "region": "TX"
+                    },
+                    "cityName": "Houston",
+                    "streetName": "San Felipe",
+                    "houseId": " 4567",
+                    "postalCode": "77057",
+                    "districtName": "Harris",
+                    "streetPrefixName": "Suite House No:-2600",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "Suite House No:-2600 /  4567 San Felipe / Houston TX 77057 / US",
+                    "correspondenceLanguage": "en",
+                    "web": "https://cbont.cx.demo.sap",
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "00163e37-bedf-1ed8-bba9-b5829df313fb",
+                    "parentId": "11ed4f99-758a-722e-afdb-81e5bc010a00",
+                    "addressId": "11ed4f99-759a-77be-afdb-81e5bc010a00",
+                    "countryDescription": "United States of America",
+                    "regionDescription": "Texas",
+                    "correspondenceLanguageDescription": "English",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "salesArrangements": [
+                {
+                    "incoterms": {
+                        "classification": "CFR",
+                        "transferLocationName": "Palo Alto",
+                        "classificationDescription": "Cost and freight"
+                    },
+                    "blockingReasons": {
+                        "isSalesSupportBlocked": false
+                    },
+                    "id": "11ed4f99-759b-d74e-afdb-81e5bc010a00",
+                    "salesOrganizationId": "11ed4977-f585-1f2e-afdb-81651a010a00",
+                    "distributionChannel": "01",
+                    "division": "1",
+                    "isMarkedForDeletion": false,
+                    "deliveryPriority": "3",
+                    "isCompleteDeliveryRequested": false,
+                    "currency": "USD",
+                    "salesOrganizationDisplayId": "3100",
+                    "salesOrganizationName": "BRM Market Unit",
+                    "distributionChannelDescription": "Direct Sales",
+                    "divisionDescription": "Product Division",
+                    "currencyDescription": "US Dollar",
+                    "deliveryPriorityDescription": "Normal"
+                },
+                {
+                    "incoterms": {
+                        "classification": "FOB",
+                        "transferLocationName": "FOB",
+                        "classificationDescription": "Free on board"
+                    },
+                    "blockingReasons": {
+                        "isSalesSupportBlocked": false
+                    },
+                    "id": "11ed4f99-759b-fe5e-afdb-81e5bc010a00",
+                    "salesOrganizationId": "11ed4977-f585-1f2e-afdb-81651a010a00",
+                    "distributionChannel": "01",
+                    "division": "2",
+                    "isMarkedForDeletion": false,
+                    "deliveryPriority": "3",
+                    "isCompleteDeliveryRequested": false,
+                    "currency": "USD",
+                    "salesOrganizationDisplayId": "3100",
+                    "salesOrganizationName": "BRM Market Unit",
+                    "distributionChannelDescription": "Direct Sales",
+                    "divisionDescription": "Pump Division",
+                    "currencyDescription": "US Dollar",
+                    "deliveryPriorityDescription": "Normal"
+                },
+                {
+                    "incoterms": {
+                        "classification": "CIF",
+                        "transferLocationName": "Cost & Freight",
+                        "classificationDescription": "Cost, insurance and freight"
+                    },
+                    "blockingReasons": {
+                        "isSalesSupportBlocked": false
+                    },
+                    "id": "11ed4f99-759c-256e-afdb-81e5bc010a00",
+                    "salesOrganizationId": "11ed4977-f585-1f2e-afdb-81651a010a00",
+                    "distributionChannel": "03",
+                    "division": "1",
+                    "isMarkedForDeletion": false,
+                    "deliveryPriority": "3",
+                    "isCompleteDeliveryRequested": false,
+                    "currency": "USD",
+                    "salesOrganizationDisplayId": "3100",
+                    "salesOrganizationName": "BRM Market Unit",
+                    "distributionChannelDescription": "Service Distribution",
+                    "divisionDescription": "Product Division",
+                    "currencyDescription": "US Dollar",
+                    "deliveryPriorityDescription": "Normal"
+                },
+                {
+                    "incoterms": {
+                        "classification": "CIF",
+                        "transferLocationName": "Cost & Freight",
+                        "classificationDescription": "Cost, insurance and freight"
+                    },
+                    "blockingReasons": {
+                        "isSalesSupportBlocked": false
+                    },
+                    "id": "11ed4f99-759c-4c7e-afdb-81e5bc010a00",
+                    "salesOrganizationId": "11ed4977-f585-1f2e-afdb-81651a010a00",
+                    "distributionChannel": "03",
+                    "division": "2",
+                    "isMarkedForDeletion": false,
+                    "deliveryPriority": "3",
+                    "isCompleteDeliveryRequested": false,
+                    "currency": "USD",
+                    "salesOrganizationDisplayId": "3100",
+                    "salesOrganizationName": "BRM Market Unit",
+                    "distributionChannelDescription": "Service Distribution",
+                    "divisionDescription": "Pump Division",
+                    "currencyDescription": "US Dollar",
+                    "deliveryPriorityDescription": "Normal"
+                },
+                {
+                    "blockingReasons": {
+                        "isSalesSupportBlocked": false
+                    },
+                    "id": "11ed4fb2-d871-2a5e-afdb-8185d1010a00",
+                    "salesOrganizationId": "11ed4a23-bf71-0d7e-afdb-81651a010a00",
+                    "distributionChannel": "01",
+                    "division": "1",
+                    "isMarkedForDeletion": false,
+                    "isCompleteDeliveryRequested": false,
+                    "salesOrganizationDisplayId": "2100",
+                    "salesOrganizationName": "Market Unit",
+                    "distributionChannelDescription": "Direct Sales",
+                    "divisionDescription": "Product Division"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed4f99-757a-babe-afdb-81e5bc010a00",
+                    "id": "11ed4f99-8e7a-1cee-afdb-81e5bc010a00",
+                    "isDefault": true,
+                    "contactDisplayId": "1000223",
+                    "contactFormattedName": "Joe Wills"
+                },
+                {
+                    "contactId": "11ed4de8-6198-627e-afdb-81e4bf010a00",
+                    "id": "11ed4f9e-3d1c-8bde-afdb-81249e010a00",
+                    "isDefault": false,
+                    "contactDisplayId": "1000039",
+                    "contactFormattedName": "Haley Lynn"
+                },
+                {
+                    "contactId": "11ed4deb-6f2b-3d6e-afdb-81e4bf010a00",
+                    "id": "11ed4f9e-3d20-f8ae-afdb-81249e010a00",
+                    "isDefault": false,
+                    "contactDisplayId": "1000061",
+                    "contactFormattedName": "Leo Clarke"
+                },
+                {
+                    "contactId": "11ed4de8-df17-008e-afdb-81e4bf010a00",
+                    "id": "11ed4f9e-3d30-13de-afdb-8185d1010a00",
+                    "isDefault": false,
+                    "contactDisplayId": "1000053",
+                    "contactFormattedName": "Emilia Gardner"
+                },
+                {
+                    "contactId": "11ed4de9-724d-ec1e-afdb-81e4bf010a00",
+                    "id": "11ed4f9e-3d3c-21ce-afdb-8185d1010a00",
+                    "isDefault": false,
+                    "contactDisplayId": "1000060",
+                    "contactFormattedName": "Kayden Morris"
+                },
+                {
+                    "contactId": "11ed4dea-f97a-268e-afdb-81e4bf010a00",
+                    "id": "11ed4f9e-3d4a-eede-afdb-8185d1010a00",
+                    "isDefault": false,
+                    "contactDisplayId": "1000054",
+                    "contactFormattedName": "Tilly  Red"
+                },
+                {
+                    "contactId": "11ed4de8-311b-aa3e-afdb-81e4bf010a00",
+                    "id": "11ed4f9e-3d79-2ace-afdb-8185d1010a00",
+                    "isDefault": false,
+                    "contactDisplayId": "1000044",
+                    "contactFormattedName": "Oscar Thomas"
+                },
+                {
+                    "contactId": "11ed4de9-39a3-3d2e-afdb-81e4bf010a00",
+                    "id": "11ed4f9f-4d16-669e-afdb-81249e010a00",
+                    "isDefault": false,
+                    "contactDisplayId": "1000045",
+                    "contactFormattedName": "Emma Palmer"
+                },
+                {
+                    "contactId": "11ed4dec-0716-b05e-afdb-81651a010a00",
+                    "id": "11ed4f9f-817f-e96e-afdb-8185d1010a00",
+                    "isDefault": false,
+                    "contactDisplayId": "1000062",
+                    "contactFormattedName": "Toby Muphyr"
+                },
+                {
+                    "contactId": "11ed4fa4-8d7b-bebe-afdb-8185d1010a00",
+                    "id": "11ed4fa4-8d8c-608e-afdb-8185d1010a00",
+                    "isDefault": false,
+                    "contactDisplayId": "1000235",
+                    "contactFormattedName": "Lola Cox"
+                },
+                {
+                    "contactId": "11ed4dea-f97a-268e-afdb-81e4bf010a00",
+                    "id": "11eeb39e-d8e8-25fe-afdb-81621f020a00",
+                    "isDefault": false,
+                    "contactDisplayId": "1000054",
+                    "contactFormattedName": "Tilly  Red"
+                }
+            ],
+            "accountTeamMembers": [
+                {
+                    "employeeId": "11ed4a30-9496-36ee-afdb-81651a010a00",
+                    "role": "BUR011-1",
+                    "isDefault": true,
+                    "id": "11ed4f9d-3a47-dd7e-afdb-8185d1010a00",
+                    "validFrom": "0001-01-01",
+                    "validTo": "9999-12-31",
+                    "employeeDisplayId": "MIKES",
+                    "employeeFormattedName": "Mike Summers",
+                    "roleDescription": "Has employee responsible - Sales"
+                },
+                {
+                    "employeeId": "11ed4a23-6815-c57e-afdb-81651a010a00",
+                    "role": "BUR011-1",
+                    "isDefault": false,
+                    "id": "11ed5505-8b18-d5ce-afdb-8185d1010a00",
+                    "validFrom": "0001-01-01",
+                    "validTo": "9999-12-31",
+                    "employeeDisplayId": "ADRIANC",
+                    "employeeFormattedName": "Adrian Chase",
+                    "roleDescription": "Has employee responsible - Sales"
+                }
+            ],
+            "externalIds": [
+                {
+                    "externalId": "USCU-CUS89",
+                    "communicationSystemId": "4dd8fd8f-712e-4924-a518-7c5e1857486c",
+                    "communicationSystemDisplayId": "0M1TAUD",
+                    "type": "sap.oitc.888",
+                    "id": "11ed4f99-759c-738e-afdb-81e5bc010a00",
+                    "isDefault": true
+                },
+                {
+                    "externalId": "00163e37-bedf-1ed8-bba9-a7608120d3e1",
+                    "communicationSystemId": "4dd8fd8f-712e-4924-a518-7c5e1857486c",
+                    "communicationSystemDisplayId": "0M1TAUD",
+                    "type": "sap.oitc.889",
+                    "id": "11ed4f99-759c-9a9e-afdb-81e5bc010a00",
+                    "isDefault": false
+                },
+                {
+                    "externalId": "USCU-CUS89",
+                    "communicationSystemId": "4dd8fd8f-712e-4924-a518-7c5e1857486c",
+                    "communicationSystemDisplayId": "0M1TAUD",
+                    "type": "sap.oitc.918",
+                    "id": "11ed4f99-759c-c1ae-afdb-81e5bc010a00",
+                    "isDefault": true
+                },
+                {
+                    "externalId": "USCU-CUS89",
+                    "communicationSystemId": "4dd8fd8f-712e-4924-a518-7c5e1857486c",
+                    "communicationSystemDisplayId": "0M1TAUD",
+                    "type": "sap.oitc.892",
+                    "id": "11ed4f99-759c-e8be-afdb-81e5bc010a00",
+                    "isDefault": false
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer",
+            "customerABCClassificationDescription": "Account A",
+            "industrialSectorDescription": "Manufacturing"
+        },
+        {
+            "lifeCycleStatus": "ACTIVE",
+            "isProspect": false,
+            "customerRole": "CRM000",
+            "formattedName": "MATTHES Maschinen-Industrietechnik GmbH",
+            "isNaturalPerson": false,
+            "blockingReasons": {
+                "isSalesSupportBlocked": false
+            },
+            "firstLineName": "MATTHES Maschinen-Industrietechnik GmbH",
+            "defaultExternalBusinessPartnerId": "USCU-CU400",
+            "defaultExternalBusinessPartnerIdCommunicationSystemDisplayId": "0M1TAUD",
+            "defaultExternalCustomerId": "USCU-CU400",
+            "defaultExternalCustomerIdCommunicationSystemDisplayId": "0M1TAUD",
+            "adminData": {
+                "createdOn": "2022-10-20T15:50:45.411Z",
+                "createdBy": "6a643df9-497c-11ed-87a3-a7c8eb11eeba",
+                "updatedOn": "2022-10-20T15:52:16.241Z",
+                "updatedBy": "6a643df9-497c-11ed-87a3-a7c8eb11eeba"
+            },
+            "id": "11ed508e-f585-3d7e-afdb-81e5bc010a00",
+            "displayId": "1000229",
+            "isBusinessPurposeCompleted": false,
+            "defaultAddress": {
+                "country": "DE",
+                "region": {
+                    "country": "DE",
+                    "region": "NW"
+                },
+                "postalCode": "40822",
+                "cityName": "Mettmann",
+                "streetName": "Bollenhöhe",
+                "houseId": "5",
+                "isPostOfficeBoxAddress": false,
+                "correspondenceLanguage": "de",
+                "formattedPostalAddressDescription": "Bollenhöhe 5 / 40822 Mettmann / DE",
+                "countryDescription": "Germany",
+                "correspondenceLanguageDescription": "German"
+            },
+            "defaultCommunication": {
+                "eMail": "paulbischof72@gmail.com",
+                "facsimileFormattedNumber": "+49 2104 23370-11",
+                "phoneFormattedNumber": "+49 2104 23370-0",
+                "phoneNormalisedNumber": "+492104233700"
+            },
+            "addresses": [
+                {
+                    "isDefaultAddress": true,
+                    "country": "DE",
+                    "region": {
+                        "country": "DE",
+                        "region": "NW"
+                    },
+                    "cityName": "Mettmann",
+                    "streetName": "Bollenhöhe",
+                    "houseId": "5",
+                    "postalCode": "40822",
+                    "isPostOfficeBoxAddress": false,
+                    "formattedPostalAddressDescription": "Bollenhöhe 5 / 40822 Mettmann / DE",
+                    "correspondenceLanguage": "de",
+                    "eMail": "paulbischof72@gmail.com",
+                    "facsimileFormattedNumber": "+49 2104 23370-11",
+                    "phoneFormattedNumber": "+49 2104 23370-0",
+                    "phoneNormalisedNumber": "+492104233700",
+                    "phone": {
+                        "country": "DE",
+                        "subscriberId": "02104 23370",
+                        "extensionId": "0"
+                    },
+                    "billToAddressRelevance": "NO",
+                    "deliveryAddressRelevance": "NO",
+                    "id": "fa163ebe-9eb0-1eed-9491-8694b8bb2690",
+                    "parentId": "11ed508e-f585-3d7e-afdb-81e5bc010a00",
+                    "addressId": "11ed508e-f589-833e-afdb-81e5bc010a00",
+                    "countryDescription": "Germany",
+                    "correspondenceLanguageDescription": "German",
+                    "billToAddressRelevanceDescription": "No",
+                    "deliveryAddressRelevanceDescription": "No"
+                }
+            ],
+            "salesArrangements": [
+                {
+                    "blockingReasons": {
+                        "isSalesSupportBlocked": false
+                    },
+                    "id": "11ed508f-2bb6-12ce-afdb-81e5bc010a00",
+                    "salesOrganizationId": "11ed4977-f585-1f2e-afdb-81651a010a00",
+                    "distributionChannel": "03",
+                    "division": "1",
+                    "isMarkedForDeletion": false,
+                    "deliveryPriority": "3",
+                    "isCompleteDeliveryRequested": false,
+                    "currency": "USD",
+                    "salesOrganizationDisplayId": "3100",
+                    "salesOrganizationName": "BRM Market Unit",
+                    "distributionChannelDescription": "Service Distribution",
+                    "divisionDescription": "Product Division",
+                    "currencyDescription": "US Dollar",
+                    "deliveryPriorityDescription": "Normal"
+                }
+            ],
+            "hasContactPersons": [
+                {
+                    "contactId": "11ed508f-ecfe-34de-afdb-81e5bc010a00",
+                    "id": "11ed5090-6c77-435e-afdb-81e5bc010a00",
+                    "isDefault": false,
+                    "contactDisplayId": "1000246",
+                    "contactFormattedName": "Paul Bischof"
+                }
+            ],
+            "externalIds": [
+                {
+                    "externalId": "USCU-CU400",
+                    "communicationSystemId": "4dd8fd8f-712e-4924-a518-7c5e1857486c",
+                    "communicationSystemDisplayId": "0M1TAUD",
+                    "type": "sap.oitc.888",
+                    "id": "11ed508e-f58b-09de-afdb-81e5bc010a00",
+                    "isDefault": true
+                },
+                {
+                    "externalId": "fa163ebe-9eb0-1eed-9491-7361437244d3",
+                    "communicationSystemId": "4dd8fd8f-712e-4924-a518-7c5e1857486c",
+                    "communicationSystemDisplayId": "0M1TAUD",
+                    "type": "sap.oitc.889",
+                    "id": "11ed508e-f58b-30ee-afdb-81e5bc010a00",
+                    "isDefault": false
+                },
+                {
+                    "externalId": "USCU-CU400",
+                    "communicationSystemId": "4dd8fd8f-712e-4924-a518-7c5e1857486c",
+                    "communicationSystemDisplayId": "0M1TAUD",
+                    "type": "sap.oitc.918",
+                    "id": "11ed508e-f58b-57fe-afdb-81e5bc010a00",
+                    "isDefault": true
+                }
+            ],
+            "lifeCycleStatusDescription": "Active",
+            "customerRoleDescription": "Customer"
+        }
+    ]
+}
